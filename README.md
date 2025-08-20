@@ -64,7 +64,7 @@ I’m currently exploring **intent-based systems, anti-MEV protections, and high
 
 ##  Connect with Me  
 
--  [LinkedIn]([https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/darren-da-costa-213231110/))  
+-  [LinkedIn](https://www.linkedin.com/in/darren-da-costa-213231110/)
 -  [Twitter / X](https://x.com/darren_da_costa)  
 
 ---
