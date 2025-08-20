@@ -1,6 +1,6 @@
 #  Hi, I'm Darren Da Costa  
 
- Rust & Solana Developer | 🛠 DeFi Infra Engineer |  Web3 Security Enthusiast  
+ Rust & Solana Developer | DeFi Infra Engineer |  Web3 Security Enthusiast  
 
 I’m passionate about building high-performance backend systems and DeFi infrastructure on **Solana** using **Rust**. My projects range from decentralized finance protocols (lending vaults, AMMs, CLMMs) to distributed systems (task queues, load balancers, key-value stores).  
 
