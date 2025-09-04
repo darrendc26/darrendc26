@@ -24,7 +24,7 @@ I’m currently exploring **intent-based systems, anti-MEV protections, and high
 - **[go-url-shortener](https://github.com/darrendc26/go-url-shortener)** – URL shortener built in Go.  
 
 ###  DeFi Protocols  
-- **solendrix** – Lending protocol built with [Pinocchio](https://github.com/anza-xyz/pinocchio). Implements `init_market`, `init_user`, collateral deposits/withdrawals, and borrowing across token pairs.
+- **[solendrix](https://github.com/darrendc26/solendrix)** – Lending protocol built with Pinocchio. Implements init_market, init_user, collateral deposits/withdrawals, and borrowing across token pairs.
 - **[aquasol](https://github.com/darrendc26/aquasol)** – Solana protocol to strip tokens into Principal Tokens (PT) and Yield Tokens (YT), enabling yield trading and fixed income strategies.
 - **[constant-product-amm](https://github.com/darrendc26/constant-product-amm)** – Constant product AMM in Rust with liquidity provision & swaps.
 - **[stealth-swap](https://github.com/darrendc26/capstone-stealth-swap)** – Intent-based swap protocol with Dutch auction mechanics, solver competition & anti-MEV protection.  
