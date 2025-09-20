@@ -16,6 +16,7 @@ I’m currently exploring **intent-based systems, anti-MEV protections, and high
 - **[CLMMetrics](https://github.com/darrendc26/CLMMetrics)** – Solana CLMM monitor returning liquidity, token, and balance data.  
 
 ### Infrastructure & Systems  
+- **[Rust URL Shortener](https://github.com/darrendc26/rust-url-shortener)** - A performant URL-shortening backend in Rust using Axum + SQLx + Postgres, Containerized (Docker), CI/CD–ready.
 - **[mini-redis-rust](https://github.com/darrendc26/mini-redis-rust)** – Redis clone in Rust with WAL and custom storage.  
 - **[rust-task-queue](https://github.com/darrendc26/rust-task-queue)** – Distributed task queue in Rust.  
 - **[load-balancer](https://github.com/darrendc26/load-balancer)** – Load balancer implementation in Rust.  
