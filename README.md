@@ -1,6 +1,5 @@
-👋 Hi, I'm Darren Da Costa
-
-Backend & Systems Engineer | DeFi Infrastructure Developer | Web3 Security Enthusiast
+# 👋 Hi, I'm Darren Da Costa
+### Backend & Systems Engineer | DeFi Infrastructure Developer | Web3 Security Enthusiast
 
 I build high-performance backend systems and distributed infrastructure using Rust, Go, and TypeScript, with experience across both Web2 and Web3 environments.
 
@@ -14,7 +13,8 @@ My work spans:
 
 🔐 Secure wallet systems, nonce management & transaction lifecycle handling
 
-While I enjoy building DeFi infrastructure and exploring intent-based systems & MEV-aware protocol design, I am equally interested in backend, systems, and infrastructure engineering roles in both Web2 and Web3 companies.
+While I enjoy building Defi Infrastructure and exploring intent-based systems & MEV-aware protocol design, I am equally interested in backend, systems, and infrastructure engineering roles in both Web2 and Web3 
+
 ---
 
 ##  Featured Projects  
@@ -55,31 +55,32 @@ While I enjoy building DeFi infrastructure and exploring intent-based systems & 
 
 ---
 
-🧠 Skills & Tools
-💻 Languages
+### 🧠 Skills & Tools
+#### 💻 Languages
 
 Rust | Go | TypeScript | JavaScript | Python | C++
 
-⛓ Blockchain
+#### ⛓ Blockchain
 
 Solana | Ethereum | Anchor | SPL Tokens | EVM | EIP-1559 | On-chain & Off-chain Infrastructure
 
-🏗 Systems & Backend
+#### 🏗 Systems & Backend
 
 Distributed Systems | Databases | WAL | Networking | REST APIs | JWT Auth | Prisma ORM | Transaction Lifecycle Management
 
-💰 DeFi
+#### 💰 DeFi
 
 AMMs | CLMMs | Lending Vaults | Arbitrage Bots | Intent-based Protocols | Non-Custodial Relayers | MEV-aware Design
 
-⚙ Tools
+#### ⚙ Tools
 
-Docker | Axum | NestJS | PostgreSQL | Redis | WebSockets | Swagger | GitHub Actions
+Docker | Axum | NestJS | Express | PostgreSQL | Redis | WebSockets | GitHub Actions
+
 ---
 
 ##  Connect with Me  
 
--  [LinkedIn](https://www.linkedin.com/in/darren-da-costa-213231110/)
--  [Twitter / X](https://x.com/darren_da_costa)  
+  #### [LinkedIn](https://www.linkedin.com/in/darren-da-costa-213231110/)
+  #### [Twitter / X](https://x.com/darren_da_costa)  
 
 ---
