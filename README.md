@@ -25,6 +25,7 @@ While I enjoy building Defi Infrastructure and exploring intent-based systems & 
 - **[CLMMetrics](https://github.com/darrendc26/CLMMetrics)** – Solana CLMM monitor returning liquidity, token, and balance data.  
 
 ### Infrastructure & Systems  
+- **[LedgerFlow](https://github.com/darrendc26/ledgerflow)** - Distributed payment processing system built with Go implementing a microservice architecture with REST APIs, gRPC services, Kafka-based event processing, asynchronous workers, and a double-entry financial ledger. Includes retry logic, dead-letter queue handling, Prometheus metrics, Grafana dashboards, and OpenTelemetry tracing for production-style observability.
 - **[Rust URL Shortener](https://github.com/darrendc26/rust-url-shortener)** - A performant URL-shortening backend in Rust using Axum + SQLx + Postgres, Containerized (Docker), CI/CD–ready.
 - **[mini-redis-rust](https://github.com/darrendc26/mini-redis-rust)** – Redis clone in Rust with WAL and custom storage.  
 - **[vectorDB](https://github.com/darrendc26/vectorDB)** - Rust implementation of vectorDB
